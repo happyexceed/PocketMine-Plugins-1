@@ -4,7 +4,7 @@ apply:
  level: true
  maxPlayerCount: true
  playerCount: true
- playerList: true
+ playerList: false
  plugins: true
 combine: false
 #Set to true to allow query data to be combined with other servers
@@ -33,6 +33,6 @@ servers:
 - "OwnagePE.com:19132"
 - "pe.cookie-build.com:19132"
 - "jdcraft.net:19132"
-- "example.com:19135"
+- "172.99.70.165:32772"
 timeout: 3
 #Sets the timeout in seconds, if it takes longer than the timeout to query a server, the plugin will assume the server is offline
