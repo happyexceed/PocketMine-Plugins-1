@@ -1,4 +1,4 @@
-name: QueryFacade
+name: CoreAPI
 main: queryfacade\QueryFacade
 version: 1.0.0
 api: 1.10.0
