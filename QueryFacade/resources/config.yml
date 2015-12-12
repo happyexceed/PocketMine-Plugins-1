@@ -6,7 +6,7 @@ apply:
  playerCount: true
  playerList: false
  plugins: true
-combine: false
+combine: true
 #Set to true to allow query data to be combined with other servers
 level: "world"
 #Sets the world name sent in a query
